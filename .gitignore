@@ -1,0 +1,10 @@
+# PHP
+composer.lock
+vendor/
+
+# Database secrets (Örnek: config.php kullanılıyorsa)
+# config.php
+
+# OS files
+.DS_Store
+Thumbs.db
